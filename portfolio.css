@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-con {
+    background-color: #acddde;
+    height: 163vh;
+    background-size: cover;
+    color: black;
+}
+
+.heading {
+    font-size: 18px;
+    margin-top: 40px;
+    font-weight: 600;
+    padding-left: 25px;
+    font-family: roboto;
+
+}
+
+.mainbox {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 10px;
+
+
+}
+
+.main {
+    font-family: roboto;
+    padding-left: 25px;
+    font-size: 16px;
+}
+
+li {
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-family: Serif;
+}
+
+.bg-con2 {
+    background-color: white;
+    height: 140vh;
+    background-size: cover;
+    color: black;
+}
+
+.container {
+    background-color: #f8dfc1;
+    height: 150px;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+    font-family: Times New Roman;
+
+}
+
+.heading1 {
+    font-size: 13px;
+    font-family: Bree-Serif;
+    padding-left: 25px;
+}
+
+.heading2 {
+    font-size: 14px;
+    margin-top: 10px;
+    font-family: roboto;
+    font-weight: bold;
+    padding-left: 25px;
+    text-decoration: underline;
+}
+
+hr {
+    background-color: black;
+    margin-left: 30px;
+    width: 125px;
+}
+
+.line {
+    background-color: black;
+    width: 280px;
+    margin-left: 25px;
+
+}
+
+.icon {
+    color: black;
+    font-size: 25px;
+}
+
+.icon-size {
+    margin: 10px;
+}
